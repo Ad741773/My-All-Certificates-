@@ -13,24 +13,29 @@ Below is a categorized and well-structured list of the certificates available in
 1. Professional Certifications
 
 Google Certified Data Analytics Certificate
+
 Earned through the Google Career Certificate program.
 Covered topics: data analysis process, spreadsheets, SQL, Tableau, R programming, and data-driven decision-making.
 
 Microsoft Power BI Data Analyst Certificate
+
 Focused on Power BI for data modeling, DAX functions, data cleaning, and building impactful dashboards.
 Aligned with the Microsoft PL-300 exam standards.
 
 Power BI Certificate
+
 A practical course on Power BI covering report creation, custom visuals, and basic DAX for business intelligence.
 
 
 2. Virtual Internship Programs
 
 Accenture Virtual Internship Certificate
+
 Completed through Forage’s virtual internship platform.
 Covered real-world consulting tasks, business problem-solving, and project deliverables.
 
 PwC Internship Certificate
+
 Hands-on experience with business operations and analytics use cases.
 Enhanced my understanding of corporate workflow and data-related decision-making.
 
@@ -38,15 +43,19 @@ Enhanced my understanding of corporate workflow and data-related decision-making
 3. Skill-Based Certifications
 
 Advanced Excel Certificate
+
 Proficient in formulas, pivot tables, dashboards, data validation, VLOOKUP, and automation techniques.
 
 Data Storytelling with Power BI
+
 Specialized in visual storytelling and creating interactive dashboards to effectively communicate insights.
 
 SQL Certificate
+
 Practical knowledge of relational databases, data manipulation using SQL queries including JOINs, GROUP BY, and nested queries.
 
 Tally Prime Certificate
+
 Familiar with business accounting principles, GST, ledger creation, and financial reporting using Tally Prime.
 
 
