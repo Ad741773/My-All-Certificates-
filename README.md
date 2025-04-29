@@ -42,6 +42,11 @@ Enhanced my understanding of corporate workflow and data-related decision-making
 
 3. Skill-Based Certifications
 
+Data Story Telling with Power Bi by Edureka 
+
+Certified in Data Storytelling with Power BI by Edureka on Coursera, showcasing skills in visualizing and communicating data insights effectively.
+
+
 Advanced Excel Certificate
 
 Proficient in formulas, pivot tables, dashboards, data validation, VLOOKUP, and automation techniques.
